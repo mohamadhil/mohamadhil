@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohamadhil
-- 👀 I’m interested in relativistic quantum chemistry
+- 👀 I’m interested in relativistic quantum mechanics
 - 🌱 I’m currently learning Dirac program
 - 💞️ I’m looking to collaborate on how we use dirac program
 - 📫 How to reach me ...
